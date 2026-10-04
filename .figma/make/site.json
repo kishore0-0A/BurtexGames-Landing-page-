@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly analyze and render Markdown content, enabling users to create formatted documents and presentations with ease and precision.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
